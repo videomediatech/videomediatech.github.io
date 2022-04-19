@@ -1,0 +1,25 @@
+{
+    "Status": true,
+    "HttpStatus": 200,
+    "Data": {
+        "ShowAds": true,
+        "Ads" : [{
+            "MonetizationId": 6,
+            "MonetizerName": "ironSource",
+            "AdAppKey": "128eef645",
+            "BannerAdKey": "",
+            "InterstitialAdKey": "",
+            "RewardedAdKey": "",
+            "NativeAdKey": ""
+        },{
+            "MonetizationId": 2,
+            "MonetizerName": "AdMob",
+            "AdAppKey": "ca-app-pub-4313412244522609~7998019379",
+            "BannerAdKey": "ca-app-pub-4313412244522609/9446670710",
+            "InterstitialAdKey": "ca-app-pub-4313412244522609/5379626712",
+            "RewardedAdKey": "ca-app-pub-3940256099942544/8691691433",
+            "NativeAdKey": "ca-app-pub-3940256099942544/1044960115"
+        }
+    ]},
+    "Message": "Data loaded."
+}

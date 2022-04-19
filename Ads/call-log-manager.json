@@ -1,0 +1,25 @@
+{
+    "Status": true,
+    "HttpStatus": 200,
+    "Data": {
+        "ShowAds": false,
+        "Ads" : [{
+            "MonetizationId": 2,
+            "MonetizerName": "AdMob",
+            "AdAppKey": "ca-app-pub-3940256099942544~3347511713",
+            "BannerAdKey": "ca-app-pub-3940256099942544/6300978111",
+            "InterstitialAdKey": "ca-app-pub-3940256099942544/1033173712",
+            "RewardedAdKey": "ca-app-pub-3940256099942544/8691691433",
+            "NativeAdKey": "ca-app-pub-3940256099942544/1044960115"
+        },{
+            "MonetizationId": 1,
+            "MonetizerName": "Facebook Monetization",
+            "AdAppKey": "",
+            "BannerAdKey": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "InterstitialAdKey": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
+            "RewardedAdKey": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
+            "NativeAdKey": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+        }
+    ]},
+    "Message": "Data loaded."
+}
