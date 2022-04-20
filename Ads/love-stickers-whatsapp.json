@@ -1,1 +1,19 @@
-{"Status":true,"HttpStatus":200,"Data":{"ShowAds":true,"Ads":[{"MonetizationId":6,"MonetizerName":"ironSource","AdAppKey":"137bb25c9","BannerAdKey":"","InterstitialAdKey":"","RewardedAdKey":"","NativeAdKey":""}]},"Message":"Data loaded."}
+{
+    "Status": true,
+    "HttpStatus": 200,
+    "Data": {
+        "ShowAds": true,
+        "Ads": [
+            {
+                "MonetizationId": 6,
+                "MonetizerName": "ironSource",
+                "AdAppKey": "137bb25c9",
+                "BannerAdKey": "",
+                "InterstitialAdKey": "",
+                "RewardedAdKey": "",
+                "NativeAdKey": ""
+            }
+        ]
+    },
+    "Message": "Data loaded."
+}
