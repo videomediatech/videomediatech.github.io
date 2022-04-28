@@ -2,7 +2,7 @@
     "Status": true,
     "HttpStatus": 200,
     "Data": {
-        "ShowAds": true,
+        "ShowAds": false,
         "Ads": [
             {
                 "MonetizationId": 6,
