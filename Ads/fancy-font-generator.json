@@ -3,7 +3,17 @@
     "HttpStatus": 200,
     "Data": {
         "ShowAds": true,
-        "Ads" : [{
+        "Ads" : [
+        {
+            "MonetizationId": 1,
+            "MonetizerName": "Facebook Monetization",
+            "AdAppKey": "327801495827098",
+            "BannerAdKey": "327801495827098_327802629160318",
+            "InterstitialAdKey": "327801495827098_327802739160307",
+            "RewardedAdKey": "",
+            "NativeAdKey": ""
+        },
+        {
             "MonetizationId": 6,
             "MonetizerName": "ironSource",
             "AdAppKey": "128eef645",
