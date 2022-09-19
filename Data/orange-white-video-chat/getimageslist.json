@@ -1,6 +1,9 @@
 {
     "Status": true,
     "HttpStatus": 200,
+    "Settings": {
+        "VideoCall":"Fail"
+    },
     "Data": [
         {
             "VideoId": 1,
